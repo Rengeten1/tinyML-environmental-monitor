@@ -1,0 +1,27 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# PlatformIO / embedded build output
+**/.pio/
+**/.piolibdeps/
+**/.sconsign*.dblite
+*.bin
+*.elf
+*.map
+firmware/inference-system/include/wifi_secrets.h
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
