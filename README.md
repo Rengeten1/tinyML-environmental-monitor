@@ -1,4 +1,4 @@
-# TinyML Environmental Monitoring
+# TinyML Environmental Monitor
 
 A TinyML project that reads temperature/humidity from a DHT11 sensor, trains a classifier in Python, and runs inference on an ESP32-S3 with a live web dashboard.
 
